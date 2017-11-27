@@ -14,7 +14,7 @@ namespace QLCuaHangXe
     {
         private static SqlConnection m_Connection;
         //
-        public static String m_ConnectString = "Data Source=user-pc\\sqlexpress;Initial Catalog=QLXe;Integrated Security=True";
+        public static String m_ConnectString = "Data Source=Sylvie\\SQLEXPRESS;Initial Catalog=QLXe;Integrated Security=True;Connect Timeout=30;User ID=root;pwd=$secret Instance=True";
         //public static String m_ConnectString = "Data Source=.\\SQLEXPRESS;AttachDbFilename=f:\\dbNhaSach.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True";
         // The command to execute query or non-query command on a database of this data service.
         private SqlCommand m_Command;
