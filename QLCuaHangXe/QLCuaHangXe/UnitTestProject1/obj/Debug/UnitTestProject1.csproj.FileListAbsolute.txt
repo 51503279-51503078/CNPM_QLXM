@@ -1,0 +1,8 @@
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\UnitTestProject1\bin\Debug\QLCuaHangXe.exe
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\UnitTestProject1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\UnitTestProject1\bin\Debug\QLCuaHangXe.pdb

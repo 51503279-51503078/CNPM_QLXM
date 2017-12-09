@@ -1,0 +1,69 @@
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe.config
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.exe
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.pdb
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.pdb
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\ResolveAssemblyReference.cache
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoNhapHang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoXuatHang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDanhthu.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDoiMK.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fGioiThieu.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fHangBanChay.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSHangHoa.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSKhachHang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhaCungCap.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhanvien.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPNhap.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPXuat.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fKhachhang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhanvien.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhapHang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhatKy.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNCC.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fPhucHoiDL.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fQuantri.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fSaoLuuDL.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fHangHoa.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDangnhap.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fMain.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fTTHang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fXuatHang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Properties.Resources.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.csproj.GenerateResource.Cache
+E:\DO AN\tt san xuat\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe.config
+E:\DO AN\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.exe
+E:\DO AN\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.pdb
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe.config
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.exe
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.pdb
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.pdb
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.csprojResolveAssemblyReference.cache
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoNhapHang.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoXuatHang.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDanhthu.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDoiMK.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fGioiThieu.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fHangBanChay.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSHangHoa.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSKhachHang.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhaCungCap.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhanvien.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPNhap.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPXuat.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fKhachhang.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhanvien.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhapHang.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhatKy.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNCC.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fPhucHoiDL.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fQuantri.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fSaoLuuDL.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fHangHoa.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDangnhap.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fMain.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fTTHang.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fXuatHang.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Properties.Resources.resources
+C:\Users\Ruby\Downloads\QLCuaHangXe\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.csproj.GenerateResource.Cache
