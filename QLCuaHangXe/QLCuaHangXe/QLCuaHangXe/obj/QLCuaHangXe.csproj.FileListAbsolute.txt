@@ -1,0 +1,231 @@
+G:\Doan\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.exe
+G:\Doan\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.pdb
+G:\Doan\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe
+G:\Doan\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.pdb
+G:\Doan\QLCuaHangXe\QLCuaHangXe\obj\Debug\ResolveAssemblyReference.cache
+G:\Doan\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fSanpham.resources
+G:\Doan\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDangnhap.resources
+G:\Doan\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fMain.resources
+G:\Doan\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Properties.Resources.resources
+G:\Doan\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.csproj.GenerateResource.Cache
+E:\Tailieu_HKII\Do An\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.exe
+E:\Tailieu_HKII\Do An\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.pdb
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe.config
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.exe
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.pdb
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.pdb
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\ResolveAssemblyReference.cache
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptDanhThu1.rpt
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rpthangTon.rpt
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptBaoCaoNhapHang.rpt
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptBaoCaoXuatHang.rpt
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptInDSHangHoa.rpt
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptKhachHang.rpt
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptNhaCungCap.rpt
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptNhanVien.rpt
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptpnhap.rpt
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptpxuat.rpt
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoNhapHang.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoXuatHang.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDanhthu.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDoiMK.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fGioiThieu.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSHangHoa.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSKhachHang.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhaCungCap.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhanvien.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPNhap.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPXuat.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fKhachhang.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhaCungCap.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhanvien.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhapHang.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhatKy.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fPhucHoiDL.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fQuantri.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fSaoLuuDL.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fHangHoa.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDangnhap.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fMain.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fTTHang.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fXuatHang.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Properties.Resources.resources
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.csproj.GenerateResource.Cache
+E:\Thực tập sản xuất\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.formdoanhthu.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe.config
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.exe
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.pdb
+H:\can\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe
+H:\can\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.pdb
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\ResolveAssemblyReference.cache
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptDanhThu1.rpt
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rpthangTon.rpt
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptBaoCaoNhapHang.rpt
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptBaoCaoXuatHang.rpt
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptInDSHangHoa.rpt
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptKhachHang.rpt
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptNhaCungCap.rpt
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptNhanVien.rpt
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptpnhap.rpt
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptpxuat.rpt
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoNhapHang.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoXuatHang.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDanhthu.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDoiMK.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fGioiThieu.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSHangHoa.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSKhachHang.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhaCungCap.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhanvien.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPNhap.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPXuat.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fKhachhang.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhanvien.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhapHang.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhatKy.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fPhucHoiDL.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fQuantri.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fSaoLuuDL.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fHangHoa.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDangnhap.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fMain.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fTTHang.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fXuatHang.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Properties.Resources.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.csproj.GenerateResource.Cache
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNCC.resources
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptHangBanChay.rpt
+H:\can\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fHangBanChay.resources
+E:\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe.config
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.exe
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.pdb
+E:\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe
+E:\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.pdb
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\ResolveAssemblyReference.cache
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptDanhThu1.rpt
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptHangBanChay.rpt
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rpthangTon.rpt
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptBaoCaoNhapHang.rpt
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptBaoCaoXuatHang.rpt
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptInDSHangHoa.rpt
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptKhachHang.rpt
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptNhaCungCap.rpt
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptNhanVien.rpt
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptpnhap.rpt
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptpxuat.rpt
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoNhapHang.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoXuatHang.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDanhthu.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDoiMK.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fGioiThieu.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fHangBanChay.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSHangHoa.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSKhachHang.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhaCungCap.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhanvien.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPNhap.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPXuat.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fKhachhang.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhanvien.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhapHang.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhatKy.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNCC.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fPhucHoiDL.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fQuantri.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fSaoLuuDL.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fHangHoa.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDangnhap.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fMain.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fTTHang.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fXuatHang.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Properties.Resources.resources
+E:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.csproj.GenerateResource.Cache
+J:\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe.config
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.exe
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.pdb
+J:\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe
+J:\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.pdb
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\ResolveAssemblyReference.cache
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptDanhThu1.rpt
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptHangBanChay.rpt
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rpthangTon.rpt
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptBaoCaoNhapHang.rpt
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptBaoCaoXuatHang.rpt
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptInDSHangHoa.rpt
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptKhachHang.rpt
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptNhaCungCap.rpt
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptNhanVien.rpt
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptpnhap.rpt
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptpxuat.rpt
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoNhapHang.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoXuatHang.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDanhthu.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDoiMK.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fGioiThieu.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fHangBanChay.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSHangHoa.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSKhachHang.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhaCungCap.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhanvien.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPNhap.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPXuat.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fKhachhang.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhanvien.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhapHang.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhatKy.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNCC.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fPhucHoiDL.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fQuantri.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fSaoLuuDL.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fHangHoa.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDangnhap.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fMain.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fTTHang.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fXuatHang.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Properties.Resources.resources
+J:\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.csproj.GenerateResource.Cache
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe.config
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.exe
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.pdb
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.exe
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\bin\Debug\QLCuaHangXe.pdb
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\ResolveAssemblyReference.cache
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptDanhThu1.rpt
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptHangBanChay.rpt
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rpthangTon.rpt
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptBaoCaoNhapHang.rpt
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptBaoCaoXuatHang.rpt
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptInDSHangHoa.rpt
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptKhachHang.rpt
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptNhaCungCap.rpt
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptNhanVien.rpt
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptpnhap.rpt
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Repost.rptpxuat.rpt
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoNhapHang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fBaoCaoXuatHang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDanhthu.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDoiMK.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fGioiThieu.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fHangBanChay.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSHangHoa.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSKhachHang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhaCungCap.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInDSNhanvien.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPNhap.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fInPXuat.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fKhachhang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhanvien.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhapHang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNhatKy.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fNCC.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fPhucHoiDL.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fQuantri.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fSaoLuuDL.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fHangHoa.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fDangnhap.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fMain.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fTTHang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.fXuatHang.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.Properties.Resources.resources
+E:\tt san xuat\QLCuaHangXe\QLCuaHangXe\obj\Debug\QLCuaHangXe.csproj.GenerateResource.Cache

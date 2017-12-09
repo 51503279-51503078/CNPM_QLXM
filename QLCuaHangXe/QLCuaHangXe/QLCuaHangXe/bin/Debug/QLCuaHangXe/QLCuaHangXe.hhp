@@ -1,0 +1,52 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=QLCuaHangXe.chm
+Contents file=QLCuaHangXe.hhc
+Index file=QLCuaHangXe.hhk
+Binary Index=Yes
+Full-text search=Yes
+Language=0x0409
+Title=QLCuaHangXe
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="QLCuaHangXe","QLCuaHangXe.hhc","QLCuaHangXe.hhk","BaoCao.htm","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+BaoCao.htm
+DanhMuc.htm
+Nghiepvu.htm
+QuanTriHeThong.htm
+TongQuatCT.htm
+TroGiup.htm
+images\BChang.gif
+images\bckhach.gif
+images\bcnhaCC.gif
+images\bcnhanvien.gif
+images\dangxuat.jpg
+images\danhthu.jpg
+images\dn.jpg
+images\doiMK.jpg
+images\DShangnhap.JPG
+images\DShangxuat.JPG
+images\hang.jpg
+images\hangbanchay.JPG
+images\hangton.JPG
+images\HDSD.jpg
+images\hoadonnhap.JPG
+images\hoadonxuat.JPG
+images\khachhang.jpg
+images\main.JPG
+images\nhacungcap.JPG
+images\nhanvien.jpg
+images\nhaphang.JPG
+images\nhatky.jpg
+images\phuchoi.jpg
+images\quantri.jpg
+images\saoluu.jpg
+images\thoat.jpg
+images\thongtin.jpg
+images\Thumbs.db
+images\xuathang.JPG
+

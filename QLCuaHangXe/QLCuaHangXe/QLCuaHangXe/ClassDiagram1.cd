@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="QLCuaHangXe.Businessobject.CKhachhang" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Businessobject\CKhachhang.cs</FileName>
+      <HashCode>AAAAIAAAACAAAABAAABAAAAFAAAICCAAAAAAIAAAEEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Businessobject.CNhanvien" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Businessobject\CNhanvien.cs</FileName>
+      <HashCode>AAAGIAAAECAAEAAAAARIEAAAEAAACCAAAAECAACAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Businessobject.CQuantri" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Businessobject\CQuantri.cs</FileName>
+      <HashCode>AAAAAIBAAAAgQAAAAAAAAAAAAAAAAAAAAAAAAgAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Businessobject.CSanpham" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Businessobject\CSanpham.cs</FileName>
+      <HashCode>AAAAgQCAAAgAACAAAEAAIIEIAAAAAAAACAAAICgABAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Controller.CKhachhangCtr" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Controller\CKhachhangCtr.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAgAAAAAAAAgAAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Controller.CNhacungcapCtr" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Controller\CNhacungcapCtr.cs</FileName>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Controller.CNhanvienCtr" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Controller\CNhanvienCtr.cs</FileName>
+      <HashCode>AAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAgAAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Controller.CQuantriCtr" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Controller\CQuantriCtr.cs</FileName>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Controller.CThogntinSPCTr" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Controller\CThogntinSPCTr.cs</FileName>
+      <HashCode>AAAAABAAAAAAIAAAAgAAAAAAAAAAAgAAAAAQAAAQBAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.DataLayer.CDangnhapdata" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataLayer\CDangnhapdata.cs</FileName>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAIAAAAAAQAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.DataLayer.CDoiMKdata" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataLayer\CDoiMKdata.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.DataLayer.CKhachhangdata" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataLayer\CKhachhangdata.cs</FileName>
+      <HashCode>ABABAAAAgAACAAAAAAIAAUAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.DataLayer.CNhacungcapdata" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataLayer\CNhacungcapdata.cs</FileName>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAIAAAAAAABAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.DataLayer.CNhanviendata" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataLayer\CNhanviendata.cs</FileName>
+      <HashCode>ABAAAAAAgAQAAAAAQAIABAAAAAAIACAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.DataLayer.CQuantridata" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataLayer\CQuantridata.cs</FileName>
+      <HashCode>AIAABAQAAAAAAAAAAAAAIAAAAAAIgAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.DataLayer.CThigntinSPdata" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataLayer\CThigntinSPdata.cs</FileName>
+      <HashCode>ACABAAAgAAAAAAAAAAAAgBAAAAAIAIBAAAAAAgAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.DataService" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataSevice.cs</FileName>
+      <HashCode>AAAAgAEAACCAAAAAAACABBACAQAAAAABAAAAIAAAAGA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.fDangnhap" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fDangnhap.cs</FileName>
+      <HashCode>YAAAAAABACQAAAAAQACAAgACAAAggACAEIoAIEBABAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.fDanhthu" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fDanhthu.cs</FileName>
+      <HashCode>wAAAAAAAADQAAAEAABCAAAACABAAAAAAAAgAgAAgAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.fDoiMK" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fDoiMK.cs</FileName>
+      <HashCode>4wAAAAAAACAAAAAAAACAAAACBBAAAEAAACQCAAAgACE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.fGioiThieu" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fGioiThieu.cs</FileName>
+      <HashCode>7wAAAAAAACAAAAAAAACAAAACABAAACAAACAAAAAgADA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.fInDSKhachHang" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fInDSKhachHang.cs</FileName>
+      <HashCode>AAAEAAAAACAAAAEAAAKAAIACABAAAAAAAAAAAAAgAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.fInDSNhaCungCap" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fInDSNhaCungCap.cs</FileName>
+      <HashCode>AAAAAAAAACAAAAEAAACAAAACABAAAAAAAAAAAAAgABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.fInDSNhanvien" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fInDSNhanvien.cs</FileName>
+      <HashCode>AAAEAAAAACAgAAEAAACAAIACABAAAAAAAAAAAAAgAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.fKhachhang" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fKhachhang.cs</FileName>
+      <HashCode>CAEQDCJAACCAgJAFAAuEBCUCgA1EAACwEKAAUAAAAGA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.fMain" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fMain.cs</FileName>
+      <HashCode>gEAAAAAAACAA5ANAwACAiAAKgQQAAowQkIEAAAQBAkg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.fNhaCungCap" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fNhaCungCap.cs</FileName>
+      <HashCode>AAAQAMCAgCAABAMAIAGEMEgSAAgAAAACAEAQggABAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.fNhanvien" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fNhanvien.cs</FileName>
+      <HashCode>GAEQDKBAACAAgJANAAvEBCAWAA0EAAKgEKAASAwAAGA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.fQuantri" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fQuantri.cs</FileName>
+      <HashCode>bIQABEAFACAAAAAAAAiABAACIAkAAACqEKwABAAACAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.fThongTinSP" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>fThongTinSP.cs</FileName>
+      <HashCode>6wUEmAIAICAgACBAAACChBBDAYgAAAEAEJgAAAAAQGA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Program" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Properties.Resources" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GDQFgwAwkYIACBQgAgIF1gAgQSQQAgwwAAUBIARygIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACEAAAAIAEAAAABAAAAAAEAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Repost.rptKhachHang" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Repost\rptKhachHang.cs</FileName>
+      <HashCode>AAgAAAABAAAQAAAAAAAIAAAAAAAAAAAACAAAAAAABAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Repost.CachedrptKhachHang" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Repost\rptKhachHang.cs</FileName>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QLCuaHangXe.Repost.rptNhaCungCap" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Repost\rptNhaCungCap.cs</FileName>
+      <HashCode>AAgAAAABAAAQAAAAAAAIAAAAAAAAAAAACAAAAAAABAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Repost.CachedrptNhaCungCap" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Repost\rptNhaCungCap.cs</FileName>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QLCuaHangXe.Repost.rptNhanVien" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Repost\rptNhanVien.cs</FileName>
+      <HashCode>AAgAAAABAAAQAAAAAAAIAAAAAAAAAAAACAAAAAAABAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLCuaHangXe.Repost.CachedrptNhanVien" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Repost\rptNhanVien.cs</FileName>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+</ClassDiagram>
