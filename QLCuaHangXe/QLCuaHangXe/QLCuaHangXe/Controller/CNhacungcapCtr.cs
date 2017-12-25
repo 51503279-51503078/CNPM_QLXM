@@ -108,46 +108,52 @@ namespace QLCuaHangXe.Controller
             }
             return true;
         }
-
-        public bool KiemTraLuu()
+        
+        public bool KiemTraLuu(TextBox txtTenNcc, TextBox txtDcncc,TextBox tdtDtncc ,TextBox txtEmailNcc)
         {
-            if (txtTenNCC.Text == "")
+            if (txtTenNcc.Text == "")
             {
                 MessageBox.Show(@"Khong Duoc Bo Trong Ten NCC", @"Thong Bao", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                txtTenNCC.Focus();
+                txtTenNcc.Focus();
                 return false;
             }
-            else if (txtDCNCC.Text == "")
+            if (txtDcncc.Text == "")
             {
                 MessageBox.Show(@"Khong Duoc Bo Trong Dia Chi NCC", @"Thong Bao", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                txtDCNCC.Focus();
+                txtDcncc.Focus();
                 return false;
             }
-            else if (Kiemtradt() == false || txtDTNCC.Text == "")
+            if ( tdtDtncc.Text == "")
             {
                 MessageBox.Show(@"Số điện thoại ko hợp lệ", @"Thong Bao", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                txtDTNCC.Focus();
+                tdtDtncc.Focus();
                 return false;
             }
-            else if (txtEmailNCC.Text == "")
+            if (!new CKhachhangCtr().Kiemtradt(tdtDtncc))
+            {
+                MessageBox.Show(@"Số điện thoại ko hợp lệ", @"Thong Bao", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                tdtDtncc.Focus();
+                return false;
+            }
+            if (txtEmailNcc.Text == "")
             {
                 MessageBox.Show(@"Khong Duoc Bo Trong Email", @"Thong Bao", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                txtEmailNCC.Focus();
+                txtEmailNcc.Focus();
                 return false;
             }
-            else if (txtDTNCC.Text.Length != 10 && txtDTNCC.Text.Length != 11)
+             if (tdtDtncc.Text.Length != 10 && tdtDtncc.Text.Length != 11)
             {
                 MessageBox.Show(@"Bạn nhập số DT Không đúng với thực tế", @"Thong bao", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                txtDTNCC.Focus();
+                tdtDtncc.Focus();
                 return false;
             }
-            else if (KiemTraEmail(txtEmailNCC.Text, this.txtEmailNCC) == false)
+             if (KiemTraEmail(txtEmailNcc.Text,txtEmailNcc) == false)
             {
                 MessageBox.Show(@"Có lỗi khi nhập Email", @"Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 return false;
             }
             return true;
         }
-
+        
     }
 }

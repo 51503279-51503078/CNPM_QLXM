@@ -6,17 +6,20 @@ using System.Text;
 using System.Data;
 using System.Windows.Forms;
 using System.Data.SqlClient;
-
+using System.Configuration;
 
 namespace QLCuaHangXe
 {
     public partial class DataService : DataTable
     {
+        static string startupPath = Application.StartupPath;
+        private static string name = "Demo_Data.mdf";
         private static SqlConnection m_Connection;
         //
         public static String m_ConnectString = "Data Source=Sylvie\\SQLEXPRESS;Initial Catalog=QLXe;Integrated Security=True;Connect Timeout=30;User ID=root;pwd=$secret Instance=True";
-        //public static String m_ConnectString = "Data Source=.\\SQLEXPRESS;AttachDbFilename=f:\\dbNhaSach.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True";
+       //public static String m_ConnectString = @"Data Source=.\SQLEXPRESS;AttachDbFilename=" + startupPath + @"\" + name + ";Integrated Security=True;Connect Timeout=30;User Instance=True";
         // The command to execute query or non-query command on a database of this data service.
+        //public static String m_ConnectString = ConfigurationManager.ConnectionStrings["QLXe"].ConnectionString;
         private SqlCommand m_Command;
 
         // The data adapter to execute query on a database of this data service.
@@ -36,6 +39,7 @@ namespace QLCuaHangXe
 
         public void Load(SqlCommand command)
         {
+            
             m_Command = command;
             try
             {

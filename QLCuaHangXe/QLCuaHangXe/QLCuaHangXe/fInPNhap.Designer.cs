@@ -1,6 +1,6 @@
 namespace QLCuaHangXe
 {
-    partial class fInPNhap
+    partial class FinPNhap
     {
         /// <summary>
         /// Required designer variable.
@@ -52,7 +52,7 @@ namespace QLCuaHangXe
             this.ClientSize = new System.Drawing.Size(866, 534);
             this.Controls.Add(this.crystalReportViewer1);
             this.DoubleBuffered = true;
-            this.Name = "fInPNhap";
+            this.Name = "FinPNhap";
             this.Text = "fInPNhap";
             this.Load += new System.EventHandler(this.fInPNhap_Load);
             this.ResumeLayout(false);

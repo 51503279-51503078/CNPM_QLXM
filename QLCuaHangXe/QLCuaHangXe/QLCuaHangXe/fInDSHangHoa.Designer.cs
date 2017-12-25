@@ -1,6 +1,6 @@
 namespace QLCuaHangXe
 {
-    partial class fInDSHangHoa
+    partial class FInDsHangHoa
     {
         /// <summary>
         /// Required designer variable.
@@ -51,7 +51,7 @@ namespace QLCuaHangXe
             this.ClientSize = new System.Drawing.Size(797, 422);
             this.Controls.Add(this.crtReportView1);
             this.DoubleBuffered = true;
-            this.Name = "fInDSHangHoa";
+            this.Name = "FInDsHangHoa";
             this.Text = "DSHangHoa";
             this.Load += new System.EventHandler(this.fInDSHangHoa_Load);
             this.ResumeLayout(false);

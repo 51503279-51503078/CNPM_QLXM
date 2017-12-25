@@ -54,6 +54,8 @@
     <Compile Include="testClassKhachHangCtr.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestClassNhaCungCap.cs" />
+    <Compile Include="TestClassNhanVien.cs" />
+    <Compile Include="TestNhatKy.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\QLCuaHangXe\QLCuaHangXe.csproj">

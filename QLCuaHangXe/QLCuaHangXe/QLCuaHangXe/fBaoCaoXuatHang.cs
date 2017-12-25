@@ -18,7 +18,7 @@ namespace QLCuaHangXe
             {
                 cmbThang.Items.Add(i);
             }
-            for (int j = 2009; j <= 2099; j++)
+            for (int j = 2009; j <= 2017; j++)
                 cmbNam.Items.Add(j);
             cmbNam.SelectedIndex = 0;
             cmbThang.SelectedIndex = 0;
@@ -61,6 +61,11 @@ namespace QLCuaHangXe
         }
 
         private void cmbThang_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cmbNam_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

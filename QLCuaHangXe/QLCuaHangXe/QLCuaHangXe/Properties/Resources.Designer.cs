@@ -393,6 +393,26 @@ namespace QLCuaHangXe.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap input {
+            get {
+                object obj = ResourceManager.GetObject("input", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap input__1_ {
+            get {
+                object obj = ResourceManager.GetObject("input (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap internet_document {
             get {
                 object obj = ResourceManager.GetObject("internet-document", resourceCulture);
@@ -516,6 +536,16 @@ namespace QLCuaHangXe.Properties {
         internal static System.Drawing.Bitmap mazda_3_axela {
             get {
                 object obj = ResourceManager.GetObject("mazda-3-axela", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap motor_sports {
+            get {
+                object obj = ResourceManager.GetObject("motor-sports", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
